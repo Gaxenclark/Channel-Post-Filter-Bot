@@ -1,8 +1,8 @@
 class script(object):
     START = """**Hello {} 🤟**
    
-I am **Find Post Bot**.I am best Channel Link Search Bot! 
-I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
+I Aᴍ **Sᴛᴀʀᴋ Bᴏᴛ**.I Aᴍ Bᴇsᴛ Cʜᴀɴɴᴇʟ Lɪɴᴋ Sᴇᴀʀᴄʜ Bᴏᴛ! 
+I Wɪʟʟ Fɪʟᴛᴇʀ Yᴏᴜʀ Cʜᴀɴɴᴇʟ Pᴏsᴛs Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Aɴᴅ Sᴇɴᴅ Iᴛ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Cʜᴀᴛ Wʜᴇɴ Sᴏᴍᴇᴏɴᴇ Sᴇᴀʀᴄʜ Iᴛ."""
 
     HELP = """To Use me In A Group
 
@@ -19,7 +19,7 @@ Get connected channels list with - /connections"""
 
     ABOUT = """Powered By @StarkBackup0
 
-✯ Mʏ Nᴀᴍᴇ:  {S𝘁𝗮𝗿𝗸 B𝗼𝘁}
+✯ Mʏ Nᴀᴍᴇ:  {Sᴛᴀʀᴋ Bᴏᴛ}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=2068595855'>TonyStark</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a>
