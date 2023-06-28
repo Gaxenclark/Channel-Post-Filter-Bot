@@ -19,7 +19,7 @@ Get connected channels list with - /connections"""
 
     ABOUT = """Powered By @StarkBackup0
 
-✯ Mʏ Nᴀᴍᴇ:  {Sᴛᴀʀᴋ Bᴏᴛ}
+✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=2068595855'>TonyStark</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a>
